@@ -92,7 +92,7 @@ Findings
 
 Daily Inconsistencies: My step count is not uniform; there are distinct periods of high/low activity.
 
-Faster Walking = Higher Calorie Burn: Speed is a key factor in overall energy expenditure.
+Faster Walking: Higher Calorie Burn: Speed is a key factor in overall energy expenditure.
 
 Longer Strides: They seem more efficient, yielding more calories burned per step.
 
