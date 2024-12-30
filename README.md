@@ -1,13 +1,9 @@
-Motivation
-
 I’ve always been curious about how my daily habits influence my step count and overall physical health. Since I use my iPhone to track this data through the Health app, I saw an opportunity to explore:
 
 How my activities change throughout the day and week.
 The relationship between walking speed, step length, and energy expenditure.
 The impact of lifestyle changes (e.g., holidays, busy work periods) on my step count.
 By conducting this analysis, I hope to make data-driven improvements to my daily routine and better understand my exercise habits.
-
-Tools
 
 Jupyter Notebook: Used for coding, exploratory data analysis (EDA), and documentation.
 
