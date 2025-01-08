@@ -111,4 +111,4 @@ Limitations:
 Device & Data Constraints
 
 The Apple Health export may omit certain metadata or specific workouts.
-Periods without carrying the phone/watch remain untracked.
+Periods without carrying the phone remain untracked.
