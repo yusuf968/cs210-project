@@ -1,6 +1,8 @@
 
 # Health Data Analysis Project
 
+You can find the report on the project folder as pdf.
+
 Project Hypothesis:
 
 Faster or more frequent walking (i.e., higher step counts and speeds) will be associated with greater overall energy expenditure (kcal).
